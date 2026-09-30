@@ -1,0 +1,10 @@
+task,model_size,params_millions,loss,macro_f1,spearman_r,spearman_r_floored
+tweet_similarity,xsmall,22,1.3134193420410156,,8.97,8.97
+tweet_similarity,base,86,1.0970368385314941,,60.74,60.74
+tweet_similarity,large,304,0.46893414855003357,,68.9,68.9
+tweet_topic,xsmall,22,0.1889241486787796,11.3,,
+tweet_topic,base,86,0.14183923602104187,22.41,,
+tweet_topic,large,304,0.12495671957731247,40.66,,
+tweet_emotion,xsmall,22,0.3545622229576111,31.36,,
+tweet_emotion,base,86,0.29358014464378357,49.83,,
+tweet_emotion,large,304,0.27371546626091003,55.13,,
